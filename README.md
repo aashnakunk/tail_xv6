@@ -1,6 +1,10 @@
 # tail_xv6
 Implementation of the tail command in the xv6 kernel (coded in C)
 
+Linux tail Command (with Examples) | phoenixNAP KB
+The Linux tail command is a command-line utility that prints data from the end of a specified file or files to standard output. 
+
+
 Pull an xv6 image using Docker
 I used grantbot/xv6
 Run your container!
